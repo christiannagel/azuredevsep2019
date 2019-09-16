@@ -22,6 +22,8 @@ namespace aspnetcorewebapp21.Controllers
             return View();
         }
 
+        public string Sample1() => "Hello Sample1";
+
         public IActionResult Contact()
         {
             ViewData["Message"] = "Your contact page.";
