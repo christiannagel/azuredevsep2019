@@ -35,9 +35,8 @@ namespace MyRESTService
                 {
                     Title = "Books Service API",
                     Version = "v1",
-                    Description = "Sample service for a workshop",
-                    Contact = new Contact { Name = "Christian Nagel", Url = "https://csharp.christiannagel.com" },
-                    License = new License { Name = "MIT License" }
+                    Description = "Sample service for a workshop modified leo",
+         
                 });
             });
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
