@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29311.281
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFunctionAppUsingEFCore", "MyFunctionAppUsingEFCore\MyFunctionAppUsingEFCore.csproj", "{3F7C350F-1376-4DCC-AA81-BE44B63E3E7E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BooksLib", "..\..\Tuesday\BooksWebAPI\BooksLib\BooksLib.csproj", "{FB65E683-84EA-4957-BFDA-D2C4DFC8A5D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3F7C350F-1376-4DCC-AA81-BE44B63E3E7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F7C350F-1376-4DCC-AA81-BE44B63E3E7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F7C350F-1376-4DCC-AA81-BE44B63E3E7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F7C350F-1376-4DCC-AA81-BE44B63E3E7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB65E683-84EA-4957-BFDA-D2C4DFC8A5D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB65E683-84EA-4957-BFDA-D2C4DFC8A5D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB65E683-84EA-4957-BFDA-D2C4DFC8A5D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB65E683-84EA-4957-BFDA-D2C4DFC8A5D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C361E53-A1F0-46BD-9D88-67D9C9BA82C9}
+	EndGlobalSection
+EndGlobal
