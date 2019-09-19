@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCoreBotWithTests", "MyCoreBotWithTests\MyCoreBotWithTests\MyCoreBotWithTests.csproj", "{837BBE75-BA7A-42FA-8EA8-05E8AD8F6830}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyCoreBotWithTests.Tests", "MyCoreBotWithTests\MyCoreBotWithTests.Tests\MyCoreBotWithTests.Tests.csproj", "{B1532B1A-B52A-4E26-B7B7-98D30159D32B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{837BBE75-BA7A-42FA-8EA8-05E8AD8F6830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{837BBE75-BA7A-42FA-8EA8-05E8AD8F6830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{837BBE75-BA7A-42FA-8EA8-05E8AD8F6830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{837BBE75-BA7A-42FA-8EA8-05E8AD8F6830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1532B1A-B52A-4E26-B7B7-98D30159D32B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1532B1A-B52A-4E26-B7B7-98D30159D32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1532B1A-B52A-4E26-B7B7-98D30159D32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1532B1A-B52A-4E26-B7B7-98D30159D32B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {57C5C917-7849-495B-AF4D-47B76E8B43FA}
+	EndGlobalSection
+EndGlobal
